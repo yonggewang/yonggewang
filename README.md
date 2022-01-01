@@ -1,11 +1,11 @@
 I like to develop softwares based on my research. The following are some ready to use sources that I have developed. If you are interested in further working on these projects, please feel free to contact me.
 
-- [[lil](https://github.com/yonggewang/lil)] Testing the quality of random generators. This tool can detect weakness in generators that NIST standard tool cannot detect.
+- [lil](https://github.com/yonggewang/lil) Testing the quality of random generators. This tool can detect weakness in generators that NIST standard tool cannot detect.
 - [CoinSwap-Contracts](https://github.com/coinswapapp) A DeFi swapping platform to reduce front runner chances
-- [bdls] (https://github.com/yonggewang/bdls) An efficient BFT protocol BDLS (designed by Yongge Wang) in partial synchronous networks (implemented by others)
-- [BDLSChain] (https://github.com/yonggewang/BDLSChain) An prototype blockchain based on BDLS BFT protocol (implemented by others)
-- [DAI] (https://github.com/yonggewang/DAI) simplified MakerDAO project smart contracts
-- [RLCE] (https://github.com/yonggewang/RLCE) post-quantum secure encryption scheme based on Reed-Solomon codes
+- [bdls](https://github.com/yonggewang/bdls) An efficient BFT protocol BDLS (designed by Yongge Wang) in partial synchronous networks (implemented by others)
+- [BDLSChain](https://github.com/yonggewang/BDLSChain) An prototype blockchain based on BDLS BFT protocol (implemented by others)
+- [DAI](https://github.com/yonggewang/DAI) simplified MakerDAO project smart contracts
+- [RLCE](https://github.com/yonggewang/RLCE) post-quantum secure encryption scheme based on Reed-Solomon codes
 
 
 💳 **Donations For porgrammers are welcome**:
