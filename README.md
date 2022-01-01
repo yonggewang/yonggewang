@@ -1,5 +1,3 @@
-### Hi there
-
 I like to develop softwares based on my research. The following are some ready to use sources that I have developed. If you are interested in further working on these projects, please feel free to contact me.
 
 - [lil] (https://github.com/yonggewang/lil) Testing the quality of random generators. This tool can detect weakness in generators that NIST standard tool cannot detect.
