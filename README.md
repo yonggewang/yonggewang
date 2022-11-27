@@ -6,4 +6,4 @@ I like to develop softwares based on my research. The following are some ready t
 - [BDLSChain](https://github.com/yonggewang/BDLSChain) An prototype blockchain based on BDLS BFT protocol. Based on [Ethereum](https://github.com/Ethereum)  implementation. 
 - [DAI](https://github.com/yonggewang/DAI) simplified MakerDAO project smart contracts
 - [RLCE](https://github.com/yonggewang/RLCE) post-quantum secure encryption scheme based on Reed-Solomon codes
-- [openSSL with RLCE] (https://github.com/yonggewang/liboqsRLCE) openSSL Open Quantum Safe Project with RLCE
+- [openSSL with RLCE](https://github.com/yonggewang/liboqsRLCE) openSSL Open Quantum Safe Project with RLCE
